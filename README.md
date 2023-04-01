@@ -2,7 +2,7 @@
 
 👀 I’m interested in 🎨 Design 👨‍💻 Programming 🎮 Videogames 🌕 Blockchain 📈 Marketing 🏒 Sports 
 
-🌱 I’m currently learning Vue.js, C#, .NET Web API, CSS, Javascript, SQL
+🌱 I’m currently learning Vue and Firebase
 
 💞️ I’m looking to collaborate on basically anything with anyone.
 
